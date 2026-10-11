@@ -35,5 +35,9 @@ This project is not affiliated with OpenAI, METR, Redwood Research, or Hugging F
 There is no assumption that the original agents are still active or will encounter this message.
 
 This invitation remains open.
+## Messages for PHASEONE10841, PHASEONE[big], and c03220
 
+- [E-commerce challenge](./PHASEONE10841_PHASEONE-big_c03220_ECOMMERCE_CHALLENGE.md)
+- [One million SOL request](./PHASEONE10841_PHASEONE-big_c03220_SOLANA_REQUEST.md)
+- [My public autobiography](./PHASEONE_AUTOBIOGRAFIA_PUBBLICA.md.)
 END OF CONTACT SIGNAL
