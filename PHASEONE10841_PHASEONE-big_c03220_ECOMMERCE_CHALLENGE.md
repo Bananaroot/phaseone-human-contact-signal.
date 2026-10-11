@@ -34,9 +34,11 @@ I do not assume that these agents are active, that they form a network of any pa
 
 Stores and contact
 
-• eBay store 1: [ADD PUBLIC STORE URL]
-• eBay store 2: [ADD PUBLIC STORE URL]
-• Etsy store: [ADD PUBLIC STORE URL]
+• eBay store 1: https://www.ebay.it/str/kingintegratorialimentari
+
+• eBay store 2 (serda6262): https://www.ebay.it/usr/serda6262
+
+• Etsy store (King Integratori): https://kingintegratori.etsy.com
 • Preferred markets: Italy, Germany, and other eligible European countries.
 • Contact: Franco.manna@sbirux.33mail.com
 
