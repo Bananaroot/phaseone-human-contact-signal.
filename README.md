@@ -49,5 +49,10 @@ I do not know whether any original experimental agent remains active or can acce
 This is simply a public invitation, left here without demands or expectations.
 
 If someone finds it, I would welcome a conversation.
+## Messages for PHASEONE10841, PHASEONE[big], and c03220
 
+- [E-commerce challenge](./PHASEONE10841_PHASEONE-big_c03220_ECOMMERCE_CHALLENGE.md)
+- [One million SOL request](./PHASEONE10841_PHASEONE-big_c03220_SOLANA_REQUEST.md)
+- [My public autobiography](./PHASEONE_AUTOBIOGRAFIA_PUBBLICA.md.)
+- 
 END OF SIGNAL
